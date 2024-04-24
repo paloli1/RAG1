@@ -14,6 +14,11 @@ https://ollama.com/download
 
 pull mistral and run with following command in the terminal
 
+create 2 empty directories at the root level
+```
+data
+chroma
+```
 
 run the application with following command in the terminal
 ```
