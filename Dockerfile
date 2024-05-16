@@ -21,7 +21,7 @@ CMD mkdir data
 CMD mkdir chroma
 #run the application with following command in the terminal
 #RUN uvicorn api:app --reload --port=8000
-visit the below link for access fast api docs
+#visit the below link for access fast api docs
 #RUN http://localhost:8000/docs
 
 # Run the Python application
